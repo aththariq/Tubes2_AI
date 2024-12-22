@@ -1,2 +1,8 @@
 myenv/
 .DS_Store
+cleaning.ipynb
+preprocessing.ipynb
+knn.ipynb
+nb.ipynb
+implement.ipynb
+pipeline.ipynb
