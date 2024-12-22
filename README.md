@@ -1,5 +1,12 @@
 # **Tubes2_AI**
 
+## **Anggota Kelompok 08** 
+
+- Daffari Adiyatma (18222003)
+- Aththariq Lisan Q. D. S. (18222013)
+- Muhammad Rafly (18222067)
+- Alvin Fadhilah Akmal (18222079)
+
 ## **Cara Menjalankan Proyek**
 
 ### **Langkah-Langkah**
