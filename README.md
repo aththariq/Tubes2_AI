@@ -1,5 +1,8 @@
 # **Tubes2_AI**
 
+## Deskripsi Tugas
+Tugas Besar 2 ini merupakan pembelajaran machine learning menggunakan KNN dengan 3 metric: euclidean, manhattan, dan minkowski serta Naive Bayes untuk memprediksi legitimasi sebuah URL
+
 ## **Anggota Kelompok 08** 
 
 - Daffari Adiyatma (18222003)
